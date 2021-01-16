@@ -211,8 +211,8 @@ font-size: 42px;
     .img-box {display: none;} 
 
 .logo {float: inherit; padding-bottom: 10px; text-align: center;}
-#myCarousel a.carousel-control-prev {width: 45px; height: 45px;}
-#myCarousel a.carousel-control-next {width: 45px; height: 45px;}
+#myCarousel a.carousel-control-prev {width: 30px; height: 30px;}
+#myCarousel a.carousel-control-next {width: 30px; height: 30px;}
 .banner-main .carousel-item img {height: 290px;}
 .banner-main .carousel-caption span {font-size: 21px; line-height: 19px;}
 .banner-main .carousel-caption h1 {font-size: 20px; line-height: 40px;}
